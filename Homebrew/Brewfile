@@ -24,7 +24,6 @@ brew "flux"
 brew "gotop"
 brew "mtr"
 brew "tree"
-brew "xz"
 
 # Installing casks
 cask "docker"
